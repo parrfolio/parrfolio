@@ -1,7 +1,3 @@
-Hello, my name is ✨ Parr ✨, 
+As the VP of Design at [Sprinklr](https://sprinklr.com), I have the pleasure of working with the finest engineers and designers in the industry. My ultimate goal is to create fun and innovative digital products that end-users will enjoy and love ❤️. With a lengthy background in product development (an old [webstandard-ist](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards)), 😁 I keep up with the latest best practices, which is another one of my passions. I enjoy exploring and experimenting with new ideas, which led me to develop a social indie music-sharing network from scratch. 🎓 I am working on this project in my free time to keep up with industry standards in React, CSS3, JavaScript, and Firebase technologies.
 
-I work at [Sprinklr](https://sprinklr.com), leading Product Design. I tend to dabble in code being an old [webstandard-ist](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards) and trying to keep up with the front-end best practices. Dabbling in figuring out things out of my reach. "Why not write a full-on social network," I thought. So that's what I'm currently doing in my off-hours.
-
-Side Projects to keep my coding nimble:
-🎸 A live show music social network ♪♫♬ ♪ in [React JS](https://reactjs.org/).
-🎓 A remote jukebox UI for my 1954 AMI F 120
+🎸 To keep my mobile app design and development skills sharp, I created a mobile remote jukebox user interface for my 1954 AMi F-120. I am learning to code Python to interface a Raspberry Pi controller with my jukebox stepper and custom-animated LED lighting.  I have made this project open-source so other jukebox owners can create a remote-controlled mobile experience for their old 45s. 📲 You can find it [here](https://github.com/parrfolio/AMI-F120-Virtual-Remote-React)
