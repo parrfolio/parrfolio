@@ -1,4 +1,4 @@
-As the former [VP of Design at Sprinklr](https://sprinklr.com), I’ve had the privilege of building and leading global design and engineering teams to deliver large-scale, enterprise-grade experiences—driven by a passion for usability, innovation, and the future of human–computer interaction.
+As the [VP of Design at Sprinklr](https://sprinklr.com), I’ve had the privilege of building and leading global design and engineering teams to deliver large-scale, enterprise-grade experiences—driven by a passion for usability, innovation, and the future of human–computer interaction.
 
 I’ve always sat at the intersection of systems thinking, design craft, and code. I started my career as a passionate [web standards advocate](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards), and that foundation still informs how I build today: accessibility-first, performance-minded, and human-centered by default.
 
